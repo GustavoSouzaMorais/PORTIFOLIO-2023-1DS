@@ -5,3 +5,4 @@
 ### link para os certificados SkillsBuild: https://github.com/GustavoSouzaMorais/PORTIFOLIO-2023-1DS/issues/2#issue-1967606143 <br>
 ### link para as palestras: https://github.com/GustavoSouzaMorais/PORTIFOLIO-2023-1DS/issues/3#issue-1968319799 <br>
 ### link para os wireframes de baixa fidelidade: https://github.com/GustavoSouzaMorais/PORTIFOLIO-2023-1DS/issues/4#issue-1968352801
+### link para os wireframes de alta fidelidade: https://github.com/GustavoSouzaMorais/PORTIFOLIO-2023-1DS/issues/5#issue-1968372712
